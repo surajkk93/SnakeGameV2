@@ -36,7 +36,7 @@ A classic snake game built using HTML, CSS, and JavaScript, served through a Spr
 
 ### Steps to Run
 
-#### 1. Clone the Repository
+1. Clone the Repository
 
 `git clone https://github.com/your-username/snake-game.git`
 cd snake-game
@@ -44,16 +44,16 @@ cd snake-game
 
 2. Run with Maven
 
-mvn spring-boot:run
+`mvn spring-boot:run`
 The game will be accessible at http://localhost:8080.
 
 3. Run with Docker
 Build the Docker image:
 
 
-docker build -t snake-game .
+`docker build -t snake-game .`
 Run the container:
 
 
-docker run -p 8080:8080 snake-game
+`docker run -p 8080:8080 snake-game`
 Access the game at http://localhost:8080.
