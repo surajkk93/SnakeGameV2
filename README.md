@@ -37,8 +37,8 @@ A classic snake game built using HTML, CSS, and JavaScript, served through a Spr
 ### Steps to Run
 
 #### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/snake-game.git
+
+`git clone https://github.com/your-username/snake-game.git`
 cd snake-game
 
 
